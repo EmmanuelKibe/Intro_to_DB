@@ -13,5 +13,5 @@ FROM
 WHERE 
     TABLE_SCHEMA = 'alx_book_store'
     AND 
-    TABLE_NAME = 'BOOKS';
+    TABLE_NAME = 'Books';
 
